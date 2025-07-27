@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "view": "https://www.sniceone.com",
+    "privacy": "https://sites.google.com/view/snicekit-privacypolicy",
+    "terms": "https://sites.google.com/view/snicekit-terms",
+    "theme": "FFFFFF"
+  }
+}
